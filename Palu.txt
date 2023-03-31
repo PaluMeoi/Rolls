@@ -1,32 +1,33 @@
 title:Palu
 
-// The Hero's Burden (god-pvp)
-//notes: tags:god-pvp
+// The Hero's Burden - Popular Perks ()
 dimwishlist:item=1028124540&perks=839105230,3142289711,2387244414,2048641572,3989629871,3244015567
+dimwishlist:item=1028124540&perks=839105230,3142289711,2387244414,2048641572,3989629871,905869860
+dimwishlist:item=1028124540&perks=4090651448,3142289711,2387244414,2048641572,3989629871,3244015567
+dimwishlist:item=1028124540&perks=4090651448,3142289711,2387244414,2048641572,3989629871,905869860
+dimwishlist:item=1028124540&perks=3661387068,3142289711,2387244414,2048641572,3989629871,3244015567
+dimwishlist:item=1028124540&perks=3661387068,3142289711,2387244414,2048641572,3989629871,905869860
+dimwishlist:item=1028124540&perks=1467527085,3142289711,2387244414,2048641572,3989629871,3244015567
+dimwishlist:item=1028124540&perks=1467527085,3142289711,2387244414,2048641572,3989629871,905869860
 
 
-// Autumn Wind - Popular Perks (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=3110377595&perks=839105230,1885400500,2450788523,460017080,4091460919
+// Autumn Wind - Autumn Wind PVP God Roll (god-pvp,pvp)
+//notes: Appropriately for a Crucible weapon, Autumn Wind is much more effective in Destiny 2 PVP than PVE. You want to try and maximize range and stability, and Smallbore helps with both. High-Caliber or Ricochet Rounds are your best bet in the second column, and the choice of which to run comes down to personal preference.
+
+Rangefinder is of course the target perk for the third column, further boosting the weapon’s effective range. For the last perk slot, you have a few options. Headseeker is probably the best choice for reliability and ease of use, but Moving Target is also great. Rampage is there if you want a kill-chaining perk, but building into Autumn Wind’s stability and accuracy is probably a better idea.
+
+With the right roll, this thing can really be very powerful in the Crucible. Don’t sleep on this thing if you like using rapid-fire pulse rifles. Even if you’re not a fan of the archetype, it’s worth giving a shot — it just feels buttery smooth. tags:god-pvp,pvp
+dimwishlist:item=3110377595&perks=1482024992,1561002382,2846385770,460017080
+dimwishlist:item=3110377595&perks=1482024992,1561002382,2846385770,588594999
+dimwishlist:item=3110377595&perks=1482024992,1885400500,2846385770,460017080
+dimwishlist:item=3110377595&perks=1482024992,1885400500,2846385770,588594999
 
 
-// Autumn Wind - Popular Perks Draft (pve)
-//notes: tags:pve
-dimwishlist:item=3110377595&perks=839105230,1885400500,2450788523,460017080,4091460919
-dimwishlist:item=3110377595&perks=839105230,1885400500,2450788523,3425386926,4091460919
-dimwishlist:item=3110377595&perks=839105230,1885400500,2846385770,460017080,4091460919
-dimwishlist:item=3110377595&perks=839105230,1885400500,2846385770,3425386926,4091460919
-dimwishlist:item=3110377595&perks=839105230,2420895100,2450788523,460017080,4091460919
-dimwishlist:item=3110377595&perks=839105230,2420895100,2450788523,3425386926,4091460919
-dimwishlist:item=3110377595&perks=839105230,2420895100,2846385770,460017080,4091460919
-dimwishlist:item=3110377595&perks=839105230,2420895100,2846385770,3425386926,4091460919
-dimwishlist:item=3110377595&perks=3661387068,1885400500,2450788523,460017080,4091460919
-dimwishlist:item=3110377595&perks=3661387068,1885400500,2450788523,3425386926,4091460919
-dimwishlist:item=3110377595&perks=3661387068,1885400500,2846385770,460017080,4091460919
-dimwishlist:item=3110377595&perks=3661387068,1885400500,2846385770,3425386926,4091460919
-dimwishlist:item=3110377595&perks=3661387068,2420895100,2450788523,460017080,4091460919
-dimwishlist:item=3110377595&perks=3661387068,2420895100,2450788523,3425386926,4091460919
-dimwishlist:item=3110377595&perks=3661387068,2420895100,2846385770,460017080,4091460919
-dimwishlist:item=3110377595&perks=3661387068,2420895100,2846385770,3425386926,4091460919
+// Autumn Wind - Battle Scar (pve)
+//notes: There are much better pulse rifles you could be using in Destiny 2 PVE than Autumn Wind. That said, there are a few fun rollls you could try here. You’ve basically got two options — build into grenades or melee. Choose either Demolitionist/Adrenaline Junkie or Pugilist/Swashbuckler and go wild. Well, as wild as you can go with a weapon that isn’t all that effective, anyway. tags:pve
+dimwishlist:item=3110377595&perks=839105230,1561002382,691659142,11612903
+dimwishlist:item=3110377595&perks=839105230,1561002382,691659142,4082225868
+dimwishlist:item=3110377595&perks=839105230,1561002382,3523296417,11612903
+dimwishlist:item=3110377595&perks=839105230,1561002382,3523296417,4082225868
 
 
